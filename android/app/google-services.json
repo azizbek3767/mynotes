@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384794349894",
+    "project_id": "az3767new",
+    "storage_bucket": "az3767new.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384794349894:android:fa76798cdc7cd276231547",
+        "android_client_info": {
+          "package_name": "uz.softmakon.mynotes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC083wA8ach3vmQUM9Nd8Eq44DLTf6rbOw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
